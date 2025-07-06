@@ -1,6 +1,6 @@
 # MEDFAST – Medicine Recommendation and Disease Prediction System
 
-MEDFAST is an AI-powered healthcare assistant designed to predict diseases from symptoms and provide personalized medicine, diet, and workout recommendations. The system utilizes machine learning models and structured medical datasets to assist patients and healthcare professionals in early diagnosis and treatment planning.
+MEDFAST is an healthcare assistant designed to predict diseases from symptoms and provide personalized medicine, diet, and workout recommendations. The system utilizes machine learning models and structured medical datasets to assist patients and healthcare professionals in early diagnosis and treatment planning.
 
 ---
 
