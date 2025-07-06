@@ -112,7 +112,7 @@ The notebook MRS.ipynb includes:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/medfast.git
+   git clone https://github.com/blanky-005/medfast.git
    cd medfast
    ```
 
@@ -154,6 +154,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Contact
 
 Developer: Mohd Hiffzan Abdul Usman  
-Email: your.email@example.com  
-GitHub: https://github.com/yourusername  
-LinkedIn: https://www.linkedin.com/in/yourprofile
+Email: khnhifzan76@gmail.com  
+GitHub: https://github.com/blanky-005  
+LinkedIn: https://www.linkedin.com/in/mohd-hiffzan-261474329
